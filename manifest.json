@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "WebClone AI",
+  "version": "1.0.0",
+  "description": "Website ka clone prompt auto-generate aur auto-copy kare — Developed by Abrar",
+  "author": "Abrar",
+  "permissions": ["activeTab", "scripting", "clipboardWrite", "notifications"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "WebClone AI — by Abrar"
+  }
+}
