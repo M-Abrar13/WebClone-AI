@@ -10,7 +10,7 @@
 
 
 
-\*\*Developed by \[Abrar](https://github.com/your-username)\*\*
+\*\*Developed by \[Abrar](https://github.com/M-Abrar13)\*\*
 
 
 
@@ -56,5 +56,5 @@
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/mabrar9913/WebClone-AI.git
+&#x20;  git clone https://github.com/M-Abrar13/WebClone-AI.git
 
