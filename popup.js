@@ -178,7 +178,7 @@ async function generateAndCopy() {
     }
 
     if (copied) {
-      setBanner('ok', '✅ Prompt copied! Ab ChatGPT mein paste karo.');
+      setBanner('ok', '✅ Prompt copied! Paste it in Claude, Lovable, v0.');
       try {
         chrome.notifications?.create({
           type: 'basic',
